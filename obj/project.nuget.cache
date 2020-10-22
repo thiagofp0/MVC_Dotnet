@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jy/1SZ/VQTtUX/i08+4l1CgYsRZfkdU4p43axWGpIhqNAcGQ/QinuF8Wly68QtrSfc1cQ0m3iV01Pm5RB+HaLA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thiag\\OneDrive\\Documentos\\Thiago\\Projetos\\MVC_Dotnet\\MVC_Dotnet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thiag\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\thiag\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
